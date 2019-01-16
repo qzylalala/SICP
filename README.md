@@ -1,2 +1,2 @@
 # SICP
-for lisp exercisse when reading SICP
+for lisp exercise when reading SICP
